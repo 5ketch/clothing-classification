@@ -1,0 +1,5 @@
+dress
+pants
+shirt
+shoes
+shorts
