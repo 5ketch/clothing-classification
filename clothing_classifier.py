@@ -53,5 +53,3 @@ while True:
 
     if not input.IsStreaming() or not output.IsStreaming():
         break
-
-
