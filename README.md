@@ -4,7 +4,7 @@ This program aims to identify the type of apparel shown in an image.
 
 ## Description
 
-This project utilized a pre-trained model, the ResNet-18, to implement the Image Classification model on a custom dataset (https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset). 
+This project utilizes a pre-trained model, the ResNet-18, to implement the Image Classification model on a custom dataset (https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset). 
 The program can identify 5 types of clothing: shirts, shorts, dresses, pants, and shoes. Given an image, the program predicts what type of clothing it is, and outputs it.
 
 If further developed with more classes and a larger dataset, the program can be used for automatically categorizing catalogs in online stores, and or automatically sorting clothing.
@@ -34,4 +34,4 @@ If further developed with more classes and a larger dataset, the program can be 
 
 ## Video Example
 
-* (link to YT video)
+* [Video explanation on how to run the program](https://youtu.be/UzM6hOUiCYE)
